@@ -1,0 +1,26 @@
+{
+  "name": "ddmap",
+  "version": "1.0.3",
+  "description": "Upload source map - Bugsnag.",
+  "main": "./lib/index.js",
+  "bin": {
+    "ddmap": "bin/ddmapmodule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThompsonMss/ddmap"
+  },
+  "bugs": {
+    "url": "https://github.com/ThompsonMss/ddmap/issues"
+  },
+  "keywords": [
+    "cli",
+    "node"
+  ],
+  "author": "Thompson Silva <https://github.com/ThompsonMss> (https://github.com/ThompsonMss)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0"
+  }
+}
