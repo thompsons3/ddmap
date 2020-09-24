@@ -6,7 +6,7 @@ DDMap é uma biblioteca CLI (command-line interface) escrita em NodeJS. Essa apl
 
 ## Instalação
 
-Use o gerenciador de pacotes [npm](https://www.npmjs.com/) para instalar o severino.
+Use o gerenciador de pacotes [npm](https://www.npmjs.com/) para instalar o ddmap.
 
 ```bash
 $ npm -g install ddmap
